@@ -1,1 +1,1 @@
-# iplacex-cine-api-sergio_maldonado
+API REST Express para administración de películas favoritas de empleados de IPLACEX
